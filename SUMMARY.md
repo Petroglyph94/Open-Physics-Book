@@ -17,3 +17,8 @@
   * [Log and exponencial](math-fundamentals/functions/log-and-exponencial.md)
 * [TODO](math-fundamentals/todo.md)
 
+## Classical Mechanics
+
+* [Why classical mechanics?](classical-mechanics/why-classical-mechanics.md)
+* [The laws of motion](classical-mechanics/untitled.md)
+
